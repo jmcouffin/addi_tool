@@ -17,3 +17,5 @@ To check everything went well, you should have the following toolbar in Revit:
 
 ## Uninstallation
 Remove the **addi_tool.extension** folder from **"C:\pyRevit"**
+
+### Note: tool name and description work with Revit in French and in English so don't worry about the french in the screenshots :) 
